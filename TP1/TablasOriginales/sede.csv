@@ -1,0 +1,165 @@
+id,cod_pais,tipo,descripcion,cant_secciones
+CALEG,BRA,Consulado,Consulado  General  en  Porto  Alegre,0.0
+CANTO,CHL,Consulado,Consulado  en  Antofagasta,0.0
+CAREN,CHL,Consulado,Consulado  General  en  Punta  Arenas,0.0
+CASUN,PRY,Consulado,Consulado  General  en  Asunción,0.0
+CATLA,USA,Consulado,Consulado  General  en  Atlanta,0.0
+CBARC,ESP,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  Barcelona,6.0
+CBEIJ,CHN,Consulado,Sección  Consular  en  Beijing,0.0
+CBELO,BRA,Consulado,Consulado  en  Belo  Horizonte,0.0
+CBONN,DEU,Consulado,Consulado  en  Bonn,0.0
+CCADI,ESP,Consulado,Consulado  en  Cádiz,0.0
+CCEST,PRY,Consulado,Consulado  General  en  Ciudad  del  Este,0.0
+CCHIC,USA,Consulado,Consulado  General  en  Chicago,2.0
+CCOCH,BOL,Consulado,Consulado  en  Cochabamba,0.0
+CCOLO,URY,Consulado,Consulado  en  Colonia,0.0
+CCONC,CHL,Consulado,Consulado  en  Concepción,0.0
+CCURI,BRA,Consulado,Consulado  en  Curitiba,0.0
+CENCA,PRY,Consulado,Consulado  General  en  Encarnación,0.0
+CFBEN,URY,Consulado,Consulado  en  Fray  Bentos,0.0
+CFDIG,BRA,Consulado,Consulado  en  Foz  de  Iguazu,0.0
+CFLOR,BRA,Consulado,Consulado  en  Florianopolis,0.0
+CFRAN,DEU,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  Francfort,4.0
+CGEST,TUR,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  Estambul,0.0
+CGMUM,IND,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  Mumbai,3.0
+CGPAZ,BOL,Consulado,Consulado  General  en  La  Paz,0.0
+CGTEL,ISR,Consulado,Consulado  General  en  Tel  Aviv,2.0
+CGUAN,CHN,Consulado,Consulado  General  en  Guangzhou,0.0
+CGUAY,ECU,Consulado,Consulado  en  Guayaquil,2.0
+CGVAN,CAN,Consulado,Consulado  General  en  Vancouver,0.0
+CHAMB,DEU,Consulado,Consulado  General  en  Hamburgo,0.0
+CHONG,CHN,Consulado,Consulado  General  en  Hong  Kong,2.0
+CHOUS,USA,Consulado,Consulado  General  en  Houston,0.0
+CJOHA,ZAF,Consulado,Consulado  General  en  Johannesburgo,0.0
+CLANG,USA,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  Los  Ángeles,0.0
+CLIMA,PER,Consulado,Consulado  General  en  Lima,0.0
+CLOND,GRB,Consulado,Consulado  General  en  Londres,0.0
+CMADR,ESP,Consulado,Consulado  General  en  Madrid,0.0
+CMALD,URY,Consulado,Consulado  en  Maldonado,0.0
+CMALL,ESP,Consulado,Consulado  en  Palma,0.0
+CMDEO,URY,Consulado,Consulado  General  en  Montevideo,0.0
+CMEXI,MEX,Consulado,Consulado  General  en  México,0.0
+CMIAM,USA,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  Miami,8.0
+CMILA,ITA,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  Milán,3.0
+CMREA,CAN,Consulado,Consulado  General  en  Montreal,0.0
+CNYOR,USA,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  Nueva  York,9.0
+CPABL,BRA,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  San  Pablo,1.0
+CPAYS,URY,Consulado,Consulado  en  Paysandú,0.0
+CPCAR,MEX,Consulado,Consulado  en  Playa  del  Carmen,1.0
+CPMON,CHL,Consulado,Consulado  en  Puerto  Montt,0.0
+CRECI,BRA,Consulado,Consulado  en  Recife,5.0
+CRIOJ,BRA,Consulado,Consulado  General  en  Rio  de  Janeiro,4.0
+CROMA,ITA,Consulado,Consulado  General  en  Roma,0.0
+CSBAH,BRA,Consulado,Consulado  en  San  Salvador  de  Bahía,0.0
+CSCRS,BOL,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  Santa  Cruz,4.0
+CSHAN,CHN,Consulado  General  y  Centro  de  Promoción ,Consulado  General  y  Centro  de  Promoción  en  Shanghai,7.0
+CSIDN,AUS,Consulado,Consulado  General  en  Sidney,3.0
+CSIGO,CHL,Consulado,Consulado  General  en  Santiago,0.0
+CSLTO,URY,Consulado,Consulado  en  Salto,0.0
+CTARI,BOL,Consulado,Consulado  General  en  Tarija,0.0
+CTENE,ESP,Consulado,Consulado  en  Tenerife,0.0
+CTORO,CAN,Consulado,Consulado  General  en  Toronto,3.0
+CURUG,BRA,Consulado,Consulado  en  Uruguayana,1.0
+CVALP,CHL,Consulado,Consulado  General  en  Valparaíso,0.0
+CVIGO,ESP,Consulado,Consulado  General  en  Vigo,3.0
+CVILL,BOL,Consulado,Consulado  en  Villazon,0.0
+CYACU,BOL,Consulado,Consulado  en  Yacuiba,0.0
+DIGAC,ARG,Sede  Fija ,Argentinos  en  el  exterior,0.0
+EALEM,DEU,Embajada,Embajada  en  Alemania,10.0
+EANGO,AGO,Embajada,Embajada  en  Angola,6.0
+EARAB,SAU,Embajada,Embajada  en  Arabia  Saudita,0.0
+EARGE,DZA,Embajada,Embajada  en  Argelia,6.0
+EARME,ARM,Embajada,Embajada  en  Armenia,3.0
+EASIR,SYR,Embajada,Embajada  en  Siria,1.0
+EAUST,AUS,Embajada,Embajada  en  Australia,5.0
+EAZER,AZE,Embajada,Embajada  en  Azerbaiyán,5.0
+EBANG,BGD,Embajada,Embajada  en  Bangladesh,0.0
+EBARB,BRB,Embajada,Embajada  en  Barbados,7.0
+EBELG,BEL,Embajada,Embajada  en  Bélgica,5.0
+EBOLV,BOL,Embajada,Embajada  en  Bolivia,12.0
+EBRAS,BRA,Embajada,Embajada  en  Brasil,7.0
+EBULG,BGR,Embajada,Embajada  en  Bulgaria,0.0
+ECANA,CAN,Embajada,Embajada  en  Canadá,4.0
+ECEUR,BEL,Misión  Permanente ,Embajada  ante  la  Unión  Europea,6.0
+ECHES,CZE,Embajada,Embajada  en  República  Checa,5.0
+ECHIN,CHN,Embajada,Embajada  en  China,8.0
+ECOLO,COL,Embajada,Embajada  en  Colombia,7.0
+ECORE,KOR,Embajada,Embajada  en  Corea  Del  Sur,5.0
+ECUBA,CUB,Embajada,Embajada  en  Cuba,5.0
+EDINA,DNK,Embajada,Embajada  en  Dinamarca,4.0
+EDOMI,DOM,Embajada,Embajada  en  República  Dominicana,3.0
+EEARB,ARE,Embajada,Embajada  en  Emiratos  Árabes  Unidos,3.0
+EECUA,ECU,Embajada,Embajada  en  Ecuador,8.0
+EEEUU,USA,Embajada,Embajada  en  Estados  Unidos,11.0
+EEGIP,EGY,Embajada,Embajada  en  Egipto,6.0
+EEOEA,USA,Misión  Permanente ,Misión  Permanente  ante  la  Organización  de  Estados  Americanos,0.0
+EESPA,ESP,Embajada,Embajada  en  España,7.0
+EETIO,ETH,Embajada,Embajada  en  Etiopía,4.0
+EFILI,PHL,Embajada,Embajada  en  Filipinas,4.0
+EFINL,FIN,Embajada,Embajada  en  Finlandia,2.0
+EFRAN,FRA,Embajada,Embajada  en  Francia,9.0
+EFRUS,RUS,Embajada,Embajada  en  Rusia,13.0
+EGREC,GRC,Embajada,Embajada  en  Grecia,4.0
+EGUAT,GTM,Embajada,Embajada  en  Guatemala,3.0
+EGUYA,GUY,Embajada,Embajada  en  Guyana,0.0
+EHAIT,HTI,Embajada,Embajada  en  Haití,7.0
+EHILE,CHL,Embajada,Embajada  en  Chile,14.0
+EHOND,HND,Embajada,Embajada  en  Honduras,4.0
+EINDI,IND,Embajada,Embajada  en  India,4.0
+EIRAN,IRN,Embajada,Embajada  en  Irán,1.0
+EIRLA,IRL,Embajada,Embajada  en  Irlanda,4.0
+EISIA,IDN,Embajada,Embajada  en  Indonesia,5.0
+EISRA,ISR,Embajada,Embajada  en  Israel,3.0
+EITAL,ITA,Embajada,Embajada  en  Italia,10.0
+EJAMA,JAM,Embajada,Embajada  en  Jamaica,3.0
+EJAPO,JPN,Embajada,Embajada  en  Japón,6.0
+EKENY,KEN,Embajada,Embajada  en  Kenia,6.0
+EKUWA,KWT,Embajada,Embajada  en  Kuwait,5.0
+ELBIA,LBY,Embajada,Embajada  en  Libia,2.0
+ELBNO,LBN,Embajada,Embajada  en  Líbano,5.0
+ELUCI,LCA,Embajada,Embajada  en  Santa  Lucía,0.0
+EMARR,MAR,Embajada,Embajada  en  Marruecos,5.0
+EMEXI,MEX,Embajada,Embajada  en  México,9.0
+EMFAO,ITA,Misión  Permanente ,Misión  Permanente  ante  la  Organización  de  las  Naciones  Unidas  para  la  Alimentación  y  la  Agricultura,0.0
+EMOZA,MOZ,Embajada,Embajada  en  Mozambique,8.0
+EMSIA,MYS,Embajada,Embajada  en  Malasia,3.0
+EMSUR,URY,Misión  Permanente ,Representación  Permanente  para  MERCOSUR  y  ALADI,0.0
+ENAUN,USA,Misión  Permanente ,Representación  Permanente  ante  las  Naciones  Unidas,0.0
+ENICA,NIC,Embajada,Embajada  en  Nicaragua,1.0
+ENIGE,NGA,Embajada,Embajada  en  Nigeria,6.0
+ENORU,NOR,Embajada,Embajada  en  Noruega,3.0
+ENZEL,NZL,Embajada,Embajada  en  Nueva  Zelandia,3.0
+EOIRS,CHE,Misión  Permanente ,Misión  Permanente  ante  los  Organismos  Internacionales  en  Ginebra,0.0
+EPAKI,PAK,Embajada,Embajada  en  Pakistán,2.0
+EPARA,PRY,Embajada,Embajada  en  Paraguay,0.0
+EPBAJ,NLD,Embajada,Embajada  en  Holanda,4.0
+EPERU,PER,Embajada,Embajada  en  Perú,7.0
+EPNMA,PAN,Embajada,Embajada  en  Panamá,4.0
+EPOLO,POL,Embajada,Embajada  en  Polonia,3.0
+EPORT,PRT,Embajada,Embajada  en  Portugal,5.0
+EQATR,QAT,Embajada,Embajada  en  Qatar,5.0
+ERICA,CRI,Embajada,Embajada  en  Costa  Rica,2.0
+ERUMA,ROU,Embajada,Embajada  en  Rumania,2.0
+ERUNI,GRB,Embajada,Embajada  en  Reino  Unido,12.0
+ESAFR,ZAF,Embajada,Embajada  en  Sudáfrica,4.0
+ESALV,SLV,Embajada,Embajada  en  El  Salvador,5.0
+ESENE,SEN,Embajada,Embajada  en  Senegal,0.0
+ESERB,SRB,Embajada,Embajada  en  Serbia,4.0
+ESING,SGP,Embajada,Embajada  en  Singapur,4.0
+ESSED,VAT,Embajada,Representación  ante  la  Santa  Sede,6.0
+ESUEC,SWE,Embajada,Embajada  en  Suecia,4.0
+ESUIZ,CHE,Embajada,Embajada  en  Suiza,5.0
+ESURI,SUR,Embajada,Embajada  en  Surinam,6.0
+ETAIL,THA,Embajada,Embajada  en  Tailandia,6.0
+ETRIA,AUT,Embajada,Embajada  en  Austria,11.0
+ETRIN,TTO,Embajada,Embajada  en  Trinidad  y  Tobago,1.0
+ETUNE,TUN,Embajada,Embajada  en  Túnez,7.0
+ETURQ,TUR,Embajada,Embajada  en  Türkiye,4.0
+EUCRA,UKR,Embajada,Embajada  en  Ucrania,4.0
+EUNES,FRA,Misión  Permanente ,"Delegación  Permanente  ante  la  Organización  de  las  Naciones  Unidas  para  la  Educación, la  Ciencia  y  la  Cultura",0.0
+EUNGR,HUN,Embajada,Embajada  en  Hungría,5.0
+EURUG,URY,Embajada,Embajada  en  Uruguay,4.0
+EVENE,VEN,Embajada,Embajada  en  Venezuela,5.0
+EVIET,VNM,Embajada,Embajada  en  Vietnam,4.0
+OCCAT,CHN,Consulado,Oficina  Comercial  y  Cultural  Argentina  en  Taiwán,0.0
+REPAL,PSE,Embajada,Oficina  de  Representación  en  el  Estado  de  Palestina,0.0
